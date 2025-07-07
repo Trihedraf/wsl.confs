@@ -1,0 +1,1 @@
+mklink /H %USERPROFILE%\.wslconfig .\.wslconfig
