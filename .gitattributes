@@ -1,1 +1,2 @@
 etc/pacman.conf text eol=lf
+etc/sudoers.d/wheel text eol=lf
